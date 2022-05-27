@@ -7,7 +7,7 @@
 # Parenthesis { }
 #calibraces ( )
 
-#cities = ['Nai', 'Nak', 'Kis']
+#cities = ['Nai', 'Nak', 'Kis'] access items in the list using indeces
 #indexes  [ 0         1      2] We begin listing at index 0
 
 #python is case sensitive, space sensitive
@@ -37,4 +37,9 @@ print
 
 #remove statement- removing an item from a list
 motorcycle.remove('yamaha')
+print(motorcycle)
+
+number_plate= ['H123', 'Y123', 'Z123']
+motorcycle ['yamaha', 'suzuki', 'honda']
+
 print(motorcycle)

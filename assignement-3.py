@@ -1,12 +1,4 @@
-
-#if staments 
-age= 24
-if age > = 18:
- print("You are allowed to drive")
-
-else:
-    print("You are too young")
-    #write a program that gets user input for gender and age and add shs 0 to her account if she is btwn 25-30yrs
+#write a program that gets user input for gender and age and add shs 0 to her account if she is btwn 25-30yrs
 #age =input("what is your age")
 #gender=input("what gender are you:male/female")
 age =input("what is your age ?")
